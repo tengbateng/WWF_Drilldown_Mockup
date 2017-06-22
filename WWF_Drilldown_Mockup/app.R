@@ -9,8 +9,17 @@
 
 library(shiny)
 
-setwd("C:/R Stuff/LPC/WWF_Drilldown_Mockup")
-alerts <- read.csv("alertyears.txt", header = TRUE)
+library(sqldf)
+library(data.table)
+require(RCurl)
+library(foreign)
+
+url <- 'https://github.com/tengbateng/WWF_Drilldown_Mockup/raw/master/alertyears.txt'
+
+dat <- getURL(url)                
+
+alerts <- read.csv(textConnection(dat), header=TRUE)
+#alerts <- read.csv(temp, header = TRUE)
 
 # Define UI for application that draws a histogram
 ui <- fluidPage(
@@ -24,7 +33,7 @@ ui <- fluidPage(
             sidebarPanel(
                   
                   selectInput("n_year", label = "Select Year:",
-                              choices=alerts$Year, 
+                              choices=c('Select Year',alerts$Year), 
                               selected = NULL)
                   
             ),
@@ -117,7 +126,7 @@ server <- function(input, output) {
       
       output$SomeControls <- renderUI ({
             
-            if(!is.null(input$n_year)){
+            if(!is.null(input$n_year) && input$n_year != "Select Year"){
                   temp <- as.character(unique(countrymapping$UN.Geoscheme.level.1[
                         countrymapping$UN.Geoscheme.level.1 != "World"]))
                   
@@ -136,7 +145,7 @@ server <- function(input, output) {
       
       output$moreControls <- renderUI ({
             
-            if(!is.null(input$n_year) && 
+            if((!is.null(input$n_year) && input$n_year != "Select Year") && 
                (!is.null(input$n_region) || input$n_region == "Select Region")){
                   
                   temp <- as.character(countrymapping$UN.Geoscheme.level.2[countrymapping$UN.Geoscheme.level.1 ==
@@ -185,7 +194,7 @@ server <- function(input, output) {
       output$Table2 <- renderTable({
             
             
-            if(!is.null(input$n_year) && 
+            if((!is.null(input$n_year) && input$n_year != "Select Year") && 
                (!is.null(input$n_region) && input$n_region != "Select Region"  )){
                   print(input$n_region)
                   
@@ -200,7 +209,7 @@ server <- function(input, output) {
       
       output$Table3 <- renderTable({
             
-            if(!is.null(input$n_year) && 
+            if((!is.null(input$n_year) && input$n_year != "Select Year") && 
                (!is.null(input$n_region) && input$n_region != "Select Region"  ) &&
                (!is.null(input$n_subregion) && input$n_subregion != "Select Subregion")){
                   
@@ -217,7 +226,7 @@ server <- function(input, output) {
       
       output$Table4 <- renderTable({
             
-            if(!is.null(input$n_year) && 
+            if((!is.null(input$n_year) && input$n_year != "Select Year") && 
                (!is.null(input$n_region) && input$n_region != "Select Region"  ) &&
                (!is.null(input$n_subregion) && input$n_subregion != "Select Subregion") &&
                (!is.null(input$n_country) && input$n_country != "Select Country")){
