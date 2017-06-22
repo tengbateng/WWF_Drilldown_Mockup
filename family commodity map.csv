@@ -1,0 +1,666 @@
+V4,code,commodity,parent,Family Or Group,General Groups
+H2,30110,"030110
+Name: Live ornamental fish
+Description: Live ornamental fish",301,ORNAMENTAL FISH,ORNAMENTAL FISH
+H3,30110,"030110 
+Name: Live ornamental fish
+Description: Live ornamental fish",301,ORNAMENTAL FISH,ORNAMENTAL FISH
+H4,30111,"030111 
+Name: Fish and crustaceans, molluscs and other aquatic invertebrates // Live fish. // - Ornamental fish : // -- Freshwater
+Description: -- Freshwater",3011,ORNAMENTAL FISH - FRESHWATER,ORNAMENTAL FISH
+H4,30119,"030119
+Name: Fish and crustaceans, molluscs and other aquatic invertebrates // Live fish. // - Ornamental fish : // -- Other
+Description: -- Other",3011,ORNAMENTAL FISH - OTHER,ORNAMENTAL FISH
+H2,30191,"030191 - -- Trout (Salmo trutta, Oncorhynchus mykiss, Oncorhynchus clarki, Oncorhynchus aguabonita, Oncorhynchus gilae, Oncorhynchus apache and Oncorhynchus chrysogaster)",3019,TROUT,TROUT
+H3,30191,"030191 - --  Trout (Salmo trutta, Oncorhynchus mykiss, Oncorhynchus clarki, Oncorhynchus aguabonita, Oncorhynchus gilae, Oncorhynchus apache and Oncorhynchus chrysogaster)",3019,TROUT,TROUT
+H4,30191,"030191 - -- Trout (Salmo trutta, Oncorhynchus mykiss, Oncorhynchus clarki, Oncorhynchus aguabonita, Oncorhynchus gilae, Oncorhynchus apache and Oncorhynchus chrysogaster)",3019,TROUT,TROUT
+H2,30192,030192 - -- Eels (Anguilla spp.),3019,EELS,EELS
+H3,30192,030192 - --  Eels (Anguilla spp.),3019,EELS,EELS
+H4,30192,030192 - -- Eels (Anguilla spp.),3019,EELS,EELS
+H2,30193,030193 - -- Carp,3019,CARP,CARP
+H3,30193,030193 - --  Carp,3019,CARP,CARP
+H4,30193,"030193 - -- Carp (Cyprinus carpio, Carassius carassius, Ctenopharyngodon idellus, Hypophthalmichthys spp., Cirrhinus spp., Mylopharyngodon piceus)",3019,CARP,CARP
+H3,30194,030194 - --  Bluefin tunas (Thunnus thynnus),3019,BLUEFIN TUNAS,TUNA
+H4,30194,"030194 - -- Atlantic and Pacific bluefin tunas (Thunnus thynnus, Thunnus orientalis)",3019,ATLANTIC AND PACIFIC BLUEFIN TUNAS,TUNA
+H3,30195,030195 - --  Southern bluefin tunas (Thunnus maccoyii),3019,SOUTHERN BLUEFIN TUNAS,TUNA
+H4,30195,030195 - -- Southern bluefin tunas (Thunnus maccoyii),3019,SOUTHERN BLUEFIN TUNAS,TUNA
+H2,30199,"030199 
+ Name: Live fish, n.e.s.
+Description: Live fish, n.e.s.",3019,FISH (N.E.S),UNKNOWN
+H3,30199,"030199 
+ Name: Live fish(excl. of 0301.10-0301.95),n.e.s.
+Description: -- Other",3019,FISH (N.E.S),UNKNOWN
+H4,30199,"Name: Fish and crustaceans, molluscs and other aquatic invertebrates // Live fish. // - Other live fish : // -- Other
+Description: -- Other",3019,FISH (N.E.S),UNKNOWN
+H2,30211,"030211 - -- Trout (Salmo trutta, Oncorhynchus mykiss, Oncorhynchus clarki, Oncorhynchus aguabonita, Oncorhynchus gilae, Oncorhynchus apache and Oncorhynchus chrysogaster)",3021,TROUT,TROUT
+H3,30211,"030211 - --  Trout (Salmo trutta, Oncorhynchus mykiss, Oncorhynchus clarki, Oncorhynchus aguabonita, Oncorhynchus gilae, Oncorhynchus apache and Oncorhynchus chrysogaster)",3021,TROUT,TROUT
+H4,30211,"030211 - -- Trout (Salmo trutta, Oncorhynchus mykiss, Oncorhynchus clarki, Oncorhynchus aguabonita, Oncorhynchus gilae, Oncorhynchus apache and Oncorhynchus chrysogaster)",3021,TROUT,TROUT
+H2,30212,"030212 - -- Pacific salmon (Oncorhynchus nerka, Oncorhynchus gorbuscha, Oncorhynchus keta, Oncorhynchus tschawytscha, Oncorhynchus kisutch, Oncorhynchus masou and Oncorhynchus rhodurus), Atlantic salmon (Salmo salar) and Danube salmon (Hucho Hucho)",3021,PACIFIC SALMON,SALMON
+H3,30212,"030212 - --  Pacific salmon (Oncorhynchus nerka, Oncorhynchus gorbuscha, Oncorhynchus keta, Oncorhynchus tschawytscha, Oncorhynchus kisutch, Oncorhynchus masou and Oncorhynchus rhodurus), Atlantic salmon (Salmo salar) and Danube salmon (Hucho hucho)",3021,PACIFIC SALMON,SALMON
+H4,30213,"030213 - -- Pacific salmon (Oncorhynchus nerka, Oncorhynchus gorbuscha, Oncorhynchus keta, Oncorhynchus tschawytscha, Oncorhynchus kisutch, Oncorhynchus masou and Oncorhynchus rhodurus)",3021,PACIFIC SALMON,SALMON
+H4,30214,030214 - -- Atlantic salmon (Salmo salar) and Danube salmon (Hucho hucho),3021,ATLANTIC SALMON,SALMON
+H2,30219,"030219 
+Name: Salmonidae (excl. of 0302.11 & 0302.12; excl. fillets/oth. fish meat of 03. ...
+Description: Salmonidae (excl. of 0302.11 & 0302.12; excl. fillets/oth. fish meat of 03.04/livers & roes), fresh/chilled",3021,OTHER SALMONIDAE,UNKNOWN
+H3,30219,"030219
+Name: Salmonidae (excl. of 0302.11 & 0302.12; excl. fillets/other fish meat of 03.04/livers & roes), fresh/chilled
+Description: -- Other",3021,OTHER SALMONIDAE,UNKNOWN
+H4,30219,"030219 
+Name: Fish and crustaceans, molluscs and other aquatic invertebrates // Fish, fresh or chilled, excluding fish fillets and other fish meat of heading 03.04. // - Salmonidae, excluding livers and roes : // -- Other
+Description: -- Other",3021,OTHER SALMONIDAE,UNKNOWN
+H2,30221,"030221 - -- Halibut (Reinhardtius hippoglossoides, Hippoglossus Hippoglossus, Hippoglossus stenolepis)",3022,HALIBUT,HALIBUT
+H3,30221,"030221 - --  Halibut (Reinhardtius hippoglossoides, Hippoglossus hippoglossus, Hippoglossus stenolepis)",3022,HALIBUT,HALIBUT
+H4,30221,"030221 - -- Halibut (Reinhardtius hippoglossoides, Hippoglossus hippoglossus, Hippoglossus stenolepis)",3022,HALIBUT,HALIBUT
+H2,30222,030222 - -- Plaice (Pleuronectes platessa),3022,PLAICE,PLAICE
+H3,30222,030222 - --  Plaice (Pleuronectes platessa),3022,PLAICE,PLAICE
+H4,30222,030222 - -- Plaice (Pleuronectes platessa),3022,PLAICE,PLAICE
+H2,30223,030223 - -- Sole (Solea spp.),3022,SOLE,SOLE
+H3,30223,030223 - --  Sole (Solea spp.),3022,SOLE,SOLE
+H4,30223,030223 - -- Sole (Solea spp.),3022,SOLE,SOLE
+H4,30224,"030224 - -- Turbots (Psetta maxima, Scophthalmidae)",3022,TURBOTS,TURBOTS
+H2,30229,"Name: Flat fish (excl. of 0302.21-0302.23) [see list of conventions for species i ...
+Description: Flat fish (excl. of 0302.21-0302.23) [see list of conventions for species included], fresh/chilled (excl. fillets/oth. fish meat of 03.04/livers & roes)",3022,FLAT FISH,FLAT FISH
+H3,30229,"030229
+Name: Flat fish (excl. of 0302.21-0302.23) [see list of conventions for species incld.], fresh/chilled (excl. fillets/other fish meat of 03.04/livers & roes)
+Description: -- Other",3022,FLAT FISH,FLAT FISH
+H4,30229,"030229
+ Name: Fish and crustaceans, molluscs and other aquatic invertebrates // Fish, fresh or chilled, excluding fish fillets and other fish meat of heading 03.04. // - Flat fish (Pleuronectidae, Bothidae, Cynoglossidae, Soleidae, Scophthalmidae and Citharidae), exclu
+Description: -- Other",3022,FLAT FISH,FLAT FISH
+H2,30231,"Name: Albacore/longfinned tunas (Thunnus alalunga), fresh/chilled (excl. fillets/ ...
+Description: Albacore/longfinned tunas (Thunnus alalunga), fresh/chilled (excl. fillets/oth. fish meat of 03.04/livers & roes)",3023,ALBACORE OR LONGFINNED TUNAS,TUNA
+H3,30231,"Name: Albacore/longfinned tunas (Thunnus alalunga), fresh/chilled (excl. fillets/other fish meat of 03.04/livers & roes)
+Description: -- Albacore or longfinned tunas (Thunnus alalunga)",3023,ALBACORE OR LONGFINNED TUNAS,TUNA
+H4,30231,"Name: Fish and crustaceans, molluscs and other aquatic invertebrates // Fish, fresh or chilled, excluding fish fillets and other fish meat of heading 03.04. // - Tunas (of the genus Thunnus), skipjack or stripe-bellied bonito (Euthynnus (Katsuwonus) pelamis), excluding livers and roes : // -- Albacore or longfinned tunas (Thunnus alalunga)
+Description: -- Albacore or longfinned tunas (Thunnus alalunga)",3023,ALBACORE OR LONGFINNED TUNAS,TUNA
+H2,30232,030232 - -- Yellowfin Tunas (Thunnus albacares),3023,YELLOWFIN TUNAS,TUNA
+H3,30232,030232 - --  Yellowfin tunas (Thunnus albacares),3023,YELLOWFIN TUNAS,TUNA
+H4,30232,030232 - -- Yellowfin tunas (Thunnus albacares),3023,YELLOWFIN TUNAS,TUNA
+H2,30233,030233 - -- skipjack or stripe-bellied bonito,3023,"TUNAS, SKIPJACK OR STRIPE-BELLIED BONITO",TUNA
+H3,30233,030233 - --  Skipjack or stripe-bellied bonito,3023,"TUNAS, SKIPJACK OR STRIPE-BELLIED BONITO",TUNA
+H4,30233,030233 - -- Skipjack or stripe-bellied bonito,3023,"TUNAS, SKIPJACK OR STRIPE-BELLIED BONITO",TUNA
+H2,30234,030234 - -- Bigeye Tunas (Thunnus obesus),3023,BIGEYE TUNAS,TUNA
+H3,30234,030234 - --  Bigeye tunas (Thunnus obesus),3023,BIGEYE TUNAS,TUNA
+H4,30234,030234 - -- Bigeye tunas (Thunnus obesus),3023,BIGEYE TUNAS,TUNA
+H2,30235,030235 - -- Bluefin Tunas (Thunnus thynnus),3023,BLUEFIN TUNAS,TUNA
+H3,30235,030235 - --  Bluefin tunas (Thunnus thynnus),3023,BLUEFIN TUNAS,TUNA
+H4,30235,"030235 - -- Atlantic and Pacific bluefin tunas (Thunnus thynnus, Thunnus orientalis)",3023,ATLANTIC AND PACIFIC BLUEFIN TUNAS,TUNA
+H2,30236,030236 - -- Southern Bluefin Tunas (Thunnus maccoyii),3023,SOUTHERN BLUEFIN TUNAS,TUNA
+H3,30236,030236 - --  Southern bluefin tunas (Thunnus maccoyii),3023,SOUTHERN BLUEFIN TUNAS,TUNA
+H4,30236,030236 - -- Southern bluefin tunas (Thunnus maccoyii),3023,SOUTHERN BLUEFIN TUNAS,TUNA
+H2,30239,"030239 
+Name: Tunas, skipjack & bonito (excl. of 0302.31-0302.36), fresh/chilled (excl. f ...
+Description: Tunas, skipjack & bonito (excl. of 0302.31-0302.36), fresh/chilled (excl. fillets/oth. fish meat of 03.04/livers & roes)",3023,"TUNAS, SKIPJACK OR STRIPE-BELLIED BONITO",TUNA
+H3,30239,"030239
+Name: Tunas, skipjack & bonito (excl. of 0302.31-0302.36), fresh/chilled (excl. fillets/other fish meat of 03.04/livers & roes)
+Description: -- Other",3023,"TUNAS, SKIPJACK OR STRIPE-BELLIED BONITO",TUNA
+H4,30239,"030239 
+Name: Fish and crustaceans, molluscs and other aquatic invertebrates // Fish, fresh or chilled, excluding fish fillets and other fish meat of heading 03.04. // - Tunas (of the genus Thunnus), skipjack or stripe-bellied bonito (Euthynnus (Katsuwonus) pelamis), e
+Description: -- Other",3023,"TUNAS, SKIPJACK OR STRIPE-BELLIED BONITO",TUNA
+H2,30240,"030240 - - Herrings (Clupea harengus, Clupea pallasii), excluding Livers and roes",302,HERRINGS,HERRINGS
+H3,30240,"030240 - -  Herrings (Clupea harengus, Clupea pallasii), excluding livers and roes",302,HERRINGS,HERRINGS
+H4,30241,"030241 - -- Herrings (Clupea harengus, Clupea pallasii)",3024,HERRINGS,HERRINGS
+H4,30242,030242 - -- Anchovies (Engraulis spp.),3024,ANCHOVIES,ANCHOVIES
+H4,30243,"030243 - -- Sardines (Sardina pilchardus, Sardinops spp.), sardinella (Sardinella spp.), brisling or sprats (Sprattus sprattus)",3024,"SARDINES , SARDINELLA , BRISLING OR SPRATS",SARDINES
+H4,30244,"030244 - -- Mackerel (Scomber scombrus, Scomber australasicus, Scomber japonicus)",3024,MACKEREL,MACKEREL
+H4,30245,030245 - -- Jack and horse mackerel (Trachurus spp.),3024,JACK AND HORSE MACKEREL,MACKEREL
+H4,30246,030246 - -- Cobia (Rachycentron canadum),3024,COBIA,COBIA
+H4,30247,030247 - -- Swordfish (Xiphias gladius),3024,SWORDFISH,SWORDFISH
+H2,30250,"030250 - - Cod (Gadus morhua, Gadus ogac, Gadus macrocephalus), excluding Livers and roes",302,COD,COD
+H3,30250,"030250 - -  Cod (Gadus morhua, Gadus ogac, Gadus macrocephalus), excluding livers and roes",302,COD,COD
+H4,30251,"030251 - -- Cod (Gadus morhua, Gadus ogac, Gadus macrocephalus)",3025,COD,COD
+H4,30252,030252 - -- Haddock (Melanogrammus aeglefinus),3025,HADDOCK,HADDOCK
+H4,30253,030253 - -- Coalfish (Pollachius virens),3025,COALFISH,COALFISH
+H4,30254,"030254 - -- Hake (Merluccius spp., Urophycis spp.)",3025,HAKE,HAKE
+H4,30255,030255 - -- Alaska Pollack (Theragra chalcogramma),3025,ALASKA POLLACK,ALASKA POLLACK
+H4,30256,"030256 - -- Blue whitings (Micromesistius poutassou, Micromesistiusaustralis)",3025,BLUE WHITINGS,BLUE WHITINGS
+H4,30259,"030259 
+ Name: Fish and crustaceans, molluscs and other aquatic invertebrates // Fish, fresh or chilled, excluding fish fillets and other fish meat of heading 03.04. // - Fish of the families Bregmacerotidae, Euclichthyidae, Gadidae, Macrouridae, Melanonidae, Merlucciid
+Description: -- Other",3025,"CODS, CODLETS & COD-LIKE FISHES",COD
+H2,30261,"030261 - -- Sardines (Sardina pilchardus, Sardinops spp.), sardinella (sardinella spp.), brisling or sprats (Sprattus Sprattus)",3026,"SARDINES , SARDINELLA , BRISLING OR SPRATS",SARDINES
+H3,30261,"030261 - --  Sardines (Sardina pilchardus, Sardinops spp.), sardinella (Sardinella spp.), brisling or sprats (Sprattus sprattus)",3026,"SARDINES , SARDINELLA , BRISLING OR SPRATS",SARDINES
+H2,30262,030262 - -- Haddock (Melanogrammus aeglefinus),3026,HADDOCK,HADDOCK
+H3,30262,030262 - --  Haddock (Melanogrammus aeglefinus),3026,HADDOCK,HADDOCK
+H2,30263,030263 - -- Coalfish (Pollachius virens),3026,COALFISH,
+H3,30263,030263 - --  Coalfish (Pollachius virens),3026,COALFISH,COALFISH
+H2,30264,"030264 - -- Mackerel (Scomber scombrus, Scomber australasicus, Scomber japonicus)",3026,MACKEREL,MACKEREL
+H3,30264,"030264 - --  Mackerel (Scomber scombrus, Scomber australasicus, Scomber japonicus)",3026,MACKEREL,MACKEREL
+H2,30265,030265 - -- Dogfish and Other sharks,3026,DOGFISH & OTHER SHARKS,DOGFISH & OTHER SHARKS
+H3,30265,030265 - --  Dogfish and other sharks,3026,DOGFISH & OTHER SHARKS,DOGFISH & OTHER SHARKS
+H2,30266,030266 - -- Eels (Anguilla spp.),3026,EELS,EELS
+H3,30266,030266 - --  Eels (Anguilla spp.),3026,EELS,EELS
+H3,30267,030267 - --  Swordfish (Xiphias gladius),3026,SWORDFISH,SWORDFISH
+H3,30268,030268 - --  Toothfish (Dissostichus spp.),3026,TOOTHFISH,TOOTHFISH
+H2,30269,"030269 
+Name: Fish, n.e.s., fresh/chilled (excl. fillets/oth. fish meat of 03.04/livers & ...
+Description: Fish, n.e.s., fresh/chilled (excl. fillets/oth. fish meat of 03.04/livers & roes)",3026,FISH (N.E.S),FISH (N.E.S)
+H3,30269,"030269
+Name: Fish,n.e.s. in 03.02, fresh/chilled(excl. fillets/other fish meat of 03.04/livers & roes).
+Description: -- Other",3026,FISH (N.E.S),FISH (N.E.S)
+H2,30270,"030270 
+Name: Fish livers & roes, fresh/chilled
+Description: Fish livers & roes, fresh/chilled",302,FISH (N.E.S),FISH (N.E.S)
+H3,30270,"030270 - - 
+Name: Fish livers & roes, fresh/chilled
+Description: - Livers and roes",302,FISH (N.E.S),FISH (N.E.S)
+H4,30271,030271 - -- Tilapias (Oreochromis spp.),3027,TILAPIAS,TILAPIAS
+H4,30272,"030272 - -- Catfish (Pangasius spp., Silurus spp., Clarias spp., Ictalurus spp.)",3027,CATFISH,CATFISH
+H4,30273,"030273 - -- Carp (Cyprinus carpio, Carassius carassius, Ctenopharyngodon idellus, Hypophthalmichthys spp., Cirrhinus spp., Mylopharyngodon piceus)",3027,CARP,CARP
+H4,30274,030274 - -- Eels (Anguilla spp.),3027,EELS,EELS
+H4,30279,"030279 - 
+ Name: Fish and crustaceans, molluscs and other aquatic invertebrates // Fish, fresh or chilled, excluding fish fillets and other fish meat of heading 03.04. // - Tilapias (Oreochromis spp.), catfish (Pangasius spp., Silurus spp., Clarias spp., Ictalurus spp.), carp (Cyprinus carpio, Carassius carassius, Ctenopharyngodon idellus, Hypophthalmichthys spp., Cirrhinus spp., Mylopharyngodon piceus), eels (Anguilla spp.), Nile perch (Lates niloticus) and snakeheads (Channa spp.), excluding livers and roes : // -- Other
+Description: -- Other",3027,"TILAPIAS, CATFISH, CARP, EELS, NILE PERCH AND SNAKEHEADS",TILAPIAS
+H4,30281,030281 - -- Dogfish and other sharks,3028,DOGFISH & OTHER SHARKS,DOGFISH & OTHER SHARKS
+H4,30282,030282 - -- Rays and skates (Rajidae),3028,RAYS AND SKATES,RAYS AND SKATES
+H4,30283,030283 - -- Toothfish (Dissostichus spp.),3028,TOOTHFISH,TOOTHFISH
+H4,30284,030284 - -- Seabass (Dicentrarchus spp.),3028,SEABASS,SEABASS
+H4,30285,030285 - -- Seabream (Sparidae),3028,SEABREAM,SEABREAM
+H4,30289,"030289
+Name: Fish and crustaceans, molluscs and other aquatic invertebrates // Fish, fresh or chilled, excluding fish fillets and other fish meat of heading 03.04. // - Other fish, excluding livers and roes : // -- Other
+Description: -- Other",3028,OTHER FISH,OTHER FISH
+H4,30290,"030290
+Name: Fish and crustaceans, molluscs and other aquatic invertebrates // Fish, fresh or chilled, excluding fish fillets and other fish meat of heading 03.04. // -Livers and roes
+Description: -Livers and roes",302,OTHER FISH,OTHER FISH
+H2,30311,030311 - -- Sockeye salmon (red salmon) (Oncorhynchus nerka),3031,SOCKEYE SALMON,SALMON
+H3,30311,030311 - --  Sockeye salmon (red salmon) (Oncorhynchus nerka),3031,SOCKEYE SALMON,SALMON
+H4,30311,030311 - -- Sockeye salmon (red salmon) (Oncorhynchus nerka),3031,SOCKEYE SALMON,SALMON
+H4,30312,"030312 - -- Other Pacific salmon (Oncorhynchus gorbuscha, Oncorhynchus keta, Oncorhynchus tschawytscha, Oncorhynchus kisutch, Oncorhynchus masou and Oncorhynchus rhodurus)",3031,OTHER PACIFIC SALMON,SALMON
+H4,30313,030313 - -- Atlantic salmon (Salmo salar) and Danube salmon (Hucho hucho),3031,ATLANTIC SALMON AND DANUBE SALMON,SALMON
+H4,30314,"030314 - -- Trout (Salmo trutta, Oncorhynchus mykiss, Oncorhynchus clarki, Oncorhynchus aguabonita, Oncorhynchus gilae, Oncorhynchus apache and Oncorhynchus chrysogaster)",3031,TROUT,TROUT
+H2,30319,"030319
+Name: Pacific salmon (Oncorhynchus gorbuscha/keta/tschawytscha/kisutch/masou/rhod ...
+Description: Pacific salmon (Oncorhynchus gorbuscha/keta/tschawytscha/kisutch/masou/rhodurus), frozen (excl. of 0303.11; excl. fillets/oth. fish meat of 03.04/livers & roes)",3031,PACIFIC SALMON,SALMON
+H3,30319,"030319 
+Name: Pacific salmon (Oncorhynchus gorbuscha/keta/tschawytscha/kisutch/masou/rhodurus), frozen (excl. of 0303.11; excl. fillets/other fish meat of 03.04/livers & roes)
+Description: -- Other",3031,PACIFIC SALMON,SALMON
+H4,30319,"030319 
+Name: Fish and crustaceans, molluscs and other aquatic invertebrates // Fish, frozen, excluding fish fillets and other fish meat of heading03.04. // - Salmonidae, excluding livers and roes : // -- Other
+Description: -- Other",3031,OTHER SALMONIDAE,OTHER FISH
+H2,30321,"030321 - -- Trout (Salmo trutta, Oncorhynchus mykiss, Oncorhynchus clarki, Oncorhynchus aguabonita, Oncorhynchus gilae, Oncorhynchus apache and Oncorhynchus chrysogaster)",3032,TROUT,TROUT
+H3,30321,"030321 - --  Trout (Salmo trutta, Oncorhynchus mykiss, Oncorhynchus clarki, Oncorhynchus aguabonita, Oncorhynchus gilae, Oncorhynchus apache and Oncorhynchus chrysogaster)",3032,TROUT,TROUT
+H2,30322,030322 - -- Atlantic salmon (Salmo salar) and Danube salmon (Hucho Hucho),3032,ATLANTIC AND DANUBE SALMON,SALMON
+H3,30322,030322 - --  Atlantic salmon (Salmo salar) and Danube salmon (Hucho hucho),3032,ATLANTIC AND DANUBE SALMON,SALMON
+H4,30323,030323 - -- Tilapias (Oreochromis spp.),3032,TILAPIAS,TILAPIAS
+H4,30324,"030324 - -- Catfish (Pangasius spp., Silurus spp., Clarias spp., Ictalurus spp.)",3032,CATFISH,CATFISH
+H4,30325,"030325 - -- Carp (Cyprinus carpio, Carassius carassius, Ctenopharyngodon idellus, Hypophthalmichthys spp., Cirrhinus spp., Mylopharyngodon piceus)",3032,CARP,CARP
+H4,30326,030326 - -- Eels (Anguilla spp.),3032,EELS,EELS
+H2,30329,"030329 
+Name: Salmonidae (excl. of 0303.21 & 0303.22), frozen (excl. fillets/oth. fish me ...
+Description: Salmonidae (excl. of 0303.21 & 0303.22), frozen (excl. fillets/oth. fish meat of 03.04/livers & roes)",3032,OTHER SALMONIDAE,OTHER FISH
+H3,30329,"030329 
+ Name: Salmonidae (excl. of 0303.21 & 0303.22), frozen (excl. fillets/other fish meat of 03.04/livers & roes)
+Description: -- Other",3032,OTHER SALMONIDAE,OTHER FISH
+H4,30329,"030329 
+Name: Fish and crustaceans, molluscs and other aquatic invertebrates // Fish, frozen, excluding fish fillets and other fish meat of heading03.04. // - Tilapias (Oreochromis spp.), catfish (Pangasius spp., Silurus spp., Clarias spp., Ictalurus spp.), carp (Cypri
+Description: -- Other",3032,"TILAPIAS, CATFISH, CARP, EELS, NILE PERCH AND SNAKEHEADS",TILAPIAS
+H2,30331,"030331 - -- Halibut (Reinhardtius hippoglossoides, Hippoglossus Hippoglossus, Hippoglossus stenolepis)",3033,HALIBUT,HALIBUT
+H3,30331,"030331 - --  Halibut (Reinhardtius hippoglossoides, Hippoglossus hippoglossus, Hippoglossus stenolepis)",3033,HALIBUT,HALIBUT
+H4,30331,"030331 - -- Halibut (Reinhardtius hippoglossoides, Hippoglossus hippoglossus, Hippoglossus stenolepis)",3033,HALIBUT,HALIBUT
+H2,30332,030332 - -- Plaice (Pleuronectes platessa),3033,PLAICE,PLAICE
+H3,30332,030332 - --  Plaice (Pleuronectes platessa),3033,PLAICE,PLAICE
+H4,30332,030332 - -- Plaice (Pleuronectes platessa),3033,PLAICE,PLAICE
+H2,30333,030333 - -- Sole (Solea spp.),3033,SOLE,SOLE
+H3,30333,030333 - --  Sole (Solea spp.),3033,SOLE,SOLE
+H4,30333,030333 - -- Sole (Solea spp.),3033,SOLE,SOLE
+H4,30334,"030334 - -- Turbots (Psetta maxima, Scophthalmidae)",3033,TURBOTS,TURBOTS
+H2,30339,"030339
+ Name: Flat fish (excl. of 0303.31-0303.33) [see list of conventions for species i ...
+Description: Flat fish (excl. of 0303.31-0303.33) [see list of conventions for species included], frozen (excl. fillets/oth. fish meat of 03.04/livers & roes)",3033,FLAT FISH,FLAT FISH
+H3,30339,"030339
+Name: Flat fish (excl. of 0303.31-0303.33) [see list of conventions for species incld.], frozen (excl. fillets/other fish meat of 03.04/livers & roes)
+Description: -- Other",3033,FLAT FISH,FLAT FISH
+H4,30339,"030339 
+Name: Fish and crustaceans, molluscs and other aquatic invertebrates // Fish, frozen, excluding fish fillets and other fish meat of heading03.04. // - Flat fish (Pleuronectidae, Bothidae, Cynoglossidae, Soleidae, Scophthalmidae and Citharidae), excluding livers
+Description: -- Other",3033,FLAT FISH,FLAT FISH
+H2,30341," Name: Albacore/longfinned tunas (Thunnus alalunga), frozen (excl. fillets/oth. fi ...
+Description: Albacore/longfinned tunas (Thunnus alalunga), frozen (excl. fillets/oth. fish meat of 03.04/livers & roes)",3034,ALBACORE OR LONGFINNED TUNAS,TUNA
+H3,30341,"Name: Albacore/longfinned tunas (Thunnus alalunga), frozen (excl. fillets/other fish meat of 03.04/livers & roes)
+Description: -- Albacore or longfinned tunas (Thunnus alalunga)",3034,ALBACORE OR LONGFINNED TUNAS,TUNA
+H4,30341,"Name: Fish and crustaceans, molluscs and other aquatic invertebrates // Fish, frozen, excluding fish fillets and other fish meat of heading03.04. // - Tunas (of the genus Thunnus), skipjack or stripe-bellied bonito (Euthynnus (Katsuwonus) pelamis), excluding li
+Description: -- Albacore or longfinned tunas (Thunnus alalunga)",3034,ALBACORE OR LONGFINNED TUNAS,TUNA
+H2,30342,030342 - -- Yellowfin Tunas (Thunnus albacares),3034,YELLOWFIN TUNAS,TUNA
+H3,30342,030342 - --  Yellowfin tunas (Thunnus albacares),3034,YELLOWFIN TUNAS,TUNA
+H4,30342,030342 - -- Yellowfin tunas (Thunnus albacares),3034,YELLOWFIN TUNAS,TUNA
+H2,30343,030343 - -- skipjack or strip-bellied bonito,3034,SKIPJACK OR STRIP-BELLIED BONITO,TUNA
+H3,30343,030343 - --  Skipjack or strip-bellied bonito,3034,SKIPJACK OR STRIP-BELLIED BONITO,TUNA
+H4,30343,030343 - -- Skipjack or strip-bellied bonito,3034,SKIPJACK OR STRIP-BELLIED BONITO,TUNA
+H2,30344,030344 - -- Bigeye Tunas (Thunnus obesus),3034,BIGEYE TUNAS,TUNA
+H3,30344,030344 - --  Bigeye tunas (Thunnus obesus),3034,BIGEYE TUNAS,TUNA
+H4,30344,030344 - -- Bigeye tunas (Thunnus obesus),3034,BIGEYE TUNAS,TUNA
+H2,30345,030345 - -- Bluefin Tunas (Thunnus thynnus),3034,BLUEFIN TUNAS,TUNA
+H3,30345,030345 - --  Bluefin tunas (Thunnus thynnus),3034,BLUEFIN TUNAS,TUNA
+H4,30345,"030345 - -- Atlantic and Pacific bluefin tunas (Thunnus thynnus, Thunnus orientalis)",3034,ATLANTIC AND PACIFIC BLUEFIN TUNAS,TUNA
+H2,30346,030346 - -- Southern Bluefin Tunas (Thunnus maccoyii),3034,SOUTHERN BLUEFIN TUNAS,TUNA
+H3,30346,030346 - --  Southern bluefin tunas (Thunnus maccoyii),3034,SOUTHERN BLUEFIN TUNAS,TUNA
+H4,30346,030346 - -- Southern bluefin tunas (Thunnus maccoyii),3034,SOUTHERN BLUEFIN TUNAS,TUNA
+H2,30349,"030349
+Tunas (excl. of 0303.41-0303.46), frozen (excl. fillets/oth. fish meat of 0 ...
+Description: Tunas (excl. of 0303.41-0303.46), frozen (excl. fillets/oth. fish meat of 03.04/livers & roes)",3034,OTHER TUNA,TUNA
+H3,30349,"030349
+Name: Tunas (excl. of 0303.41-0303.46), frozen (excl. fillets/other fish meat of 03.04/livers & roes)
+Description: -- Other",3034,OTHER TUNA,TUNA
+H4,30349,"030349
+Name: Fish and crustaceans, molluscs and other aquatic invertebrates // Fish, frozen, excluding fish fillets and other fish meat of heading03.04. // - Tunas (of the genus Thunnus), skipjack or stripe-bellied bonito (Euthynnus (Katsuwonus) pelamis), excluding li
+Description: -- Other",3034,"TUNAS, SKIPJACK OR STRIPE-BELLIED BONITO",TUNA
+H2,30350,"030350 - - Herrings (Clupea harengus, Clupea pallasii), excluding Livers and roes",303,HERRINGS,HERRINGS
+H3,30351,"030351 - --  Herrings (Clupea harengus, Clupea pallasii)",3035,HERRINGS,HERRINGS
+H4,30351,"030351 - -- Herrings (Clupea harengus, Clupea pallasii)",3035,HERRINGS,HERRINGS
+H3,30352,"030352 - --  Cod (Gadus morhua, Gadus ogac, Gadus macrocephalus)",3035,COD,COD
+H4,30353,"030353 - -- Sardines (Sardina pilchardus, Sardinops spp.), sardinella (Sardinella spp.), brisling or sprats (Sprattus sprattus)",3035,"SARDINES , SARDINELLA , BRISLING OR SPRATS",HERRINGS
+H4,30354,"030354 - -- Mackerel (Scomber scombrus, Scomber australasicus, Scomber japonicus)",3035,MACKEREL,MACKEREL
+H4,30355,030355 - -- Jack and horse mackerel (Trachurus spp.),3035,JACK AND HORSE MACKEREL,MACKEREL
+H4,30356,030356 - -- Cobia (Rachycentron canadum),3035,COBIA,COBIA
+H4,30357,030357 - -- Swordfish (Xiphias gladius),3035,SWORDFISH,SWORDFISH
+H2,30360,"030360 - - Cod (Gadus morhua, Gadus ogac, Gadus macrocephalus), excluding Livers and roes",303,COD,COD
+H3,30361,030361 - --  Swordfish (Xiphias gladius),3036,SWORDFISH,SWORDFISH
+H3,30362,030362 - --  Toothfish (Dissostichus spp.),3036,TOOTHFISH,TOOTHFISH
+H4,30363,"030363 - -- Cod (Gadus morhua, Gadus ogac, Gadus macrocephalus)",3036,COD,COD
+H4,30364,030364 - -- Haddock (Melanogrammus aeglefinus),3036,HADDOCK,HADDOCK
+H4,30365,030365 - -- Coalfish (Pollachius virens),3036,COALFISH,COALFISH
+H4,30366,"030366 - -- Hake (Merluccius spp., Urophycis spp.)",3036,HAKE,HAKE
+H4,30367,030367 - -- Alaska Pollack (Theragra chalcogramma),3036,ALASKA POLLACK,ALASKA POLLACK
+H4,30368,"030368 - -- Blue whitings (Micromesistius poutassou, Micromesistius australis)",3036,BLUE WHITINGS,BLUE WHITINGS
+H4,30369,"030369
+Name: Fish and crustaceans, molluscs and other aquatic invertebrates // Fish, frozen, excluding fish fillets and other fish meat of heading03.04. // - Fish of the families Bregmacerotidae, Euclichthyidae, Gadidae, Macrouridae, Melanonidae, Merlucciidae, Moridae
+Description: -- Other",3036,"CODS, CODLETS & COD-LIKE FISHES",COD
+H2,30371,"030371 - -- Sardines (Sardina pilchardus, Sardinops spp.), sardinella (sardinella spp.), brisling or sprats (Sprattus Sprattus)",3037,"SARDINES , SARDINELLA , BRISLING OR SPRATS",SARDINES
+H3,30371,"030371 - --  Sardines (Sardina pilchardus, Sardinops spp.), sardinella (Sardinella spp.), brisling or sprats (Sprattus sprattus)",3037,"SARDINES , SARDINELLA , BRISLING OR SPRATS",SARDINES
+H2,30372,030372 - -- Haddock (Melanogrammus aeglefinus),3037,HADDOCK,HADDOCK
+H3,30372,030372 - --  Haddock (Melanogrammus aeglefinus),3037,HADDOCK,HADDOCK
+H2,30373,030373 - -- Coalfish (Pollachius virens),3037,COALFISH,COALFISH
+H3,30373,030373 - --  Coalfish (Pollachius virens),3037,COALFISH,COALFISH
+H2,30374,"030374 - -- Mackerel (Scomber scombrus, Scomber australasicus, Scomber japonicus)",3037,MACKEREL,MACKEREL
+H3,30374,"030374 - --  Mackerel (Scomber scombrus, Scomber australasicus, Scomber japonicus)",3037,MACKEREL,MACKEREL
+H2,30375,030375 - -- Dogfish and Other sharks,3037,DOGFISH & OTHER SHARKS,DOGFISH & OTHER SHARKS
+H3,30375,030375 - --  Dogfish and other sharks,3037,DOGFISH & OTHER SHARKS,DOGFISH & OTHER SHARKS
+H2,30376,030376 - -- Eels (Anguilla spp.),3037,EELS,EELS
+H3,30376,030376 - --  Eels (Anguilla spp.),3037,EELS,EELS
+H2,30377,"030377 - -- Sea bass (Dicentrarchus labrax, Dicentrarchus punctatus)",3037,SEA BASS,SEA BASS
+H3,30377,"030377 - --  Sea bass (Dicentrarchus labrax, Dicentrarchus punctatus)",3037,SEA BASS,SEA BASS
+H2,30378,"030378 - -- Hake (Merluccius spp., Urophycis spp.)",3037,HAKE,HAKE
+H3,30378,"030378 - --  Hake (Merluccius spp., Urophycis spp.)",3037,HAKE,HAKE
+H2,30379,"030379 
+ Name: Fish, n.e.s., frozen (excl. fillets/oth. fish meat of 03.04/livers & roes)
+Description: Fish, n.e.s., frozen (excl. fillets/oth. fish meat of 03.04/livers & roes",3037,FISH (N.E.S),FISH (N.E.S)
+H3,30379,"030379
+Name: Fish (excl. of 0303.71 - 0303.78),n.e.s., frozen (excl. fillets/other fish meat of 03.04/livers & roes)
+Description: -- Other",3037,FISH (N.E.S),FISH (N.E.S)
+H2,30380,"030380 
+Name: Fish livers & roes, frozen
+Description: Fish livers & roes, frozen",303,UNKNOWN,UNKNOWN
+H3,30380,"030380
+Name: Fish livers & roes, frozen
+Description: - Livers and roes",303,UNKNOWN,UNKNOWN
+H4,30381,030381 - -- Dogfish and other sharks,3038,DOGFISH & OTHER SHARKS,DOGFISH & OTHER SHARKS
+H4,30382,030382 - -- Rays and skates (Rajidae),3038,RAYS AND SKATES,RAYS AND SKATES
+H4,30383,030383 - -- Toothfish (Dissostichus spp.),3038,TOOTHFISH,TOOTHFISH
+H4,30384,030384 - -- Seabass (Dicentrarchus spp.),3038,SEABASS,SEABASS
+H4,30389,"030389
+Name: Fish and crustaceans, molluscs and other aquatic invertebrates // Fish, frozen, excluding fish fillets and other fish meat of heading03.04. // - Other fish, excluding livers and roes : // -- Other
+Description: -- Other",3038,OTHER FISH,OTHER FISH
+H4,30390,"030390 
+Name: Fish and crustaceans, molluscs and other aquatic invertebrates // Fish, frozen, excluding fish fillets and other fish meat of heading03.04. // -Livers and roes
+Description: -Livers and roes",303,OTHER FISH,OTHER FISH
+H2,30410,"030410
+Name: Fish fillets & oth. fish meat, whether or not minced (excl. of 03.02), fres ...
+Description: Fish fillets & oth. fish meat, whether or not minced (excl. of 03.02), fresh/chilled",304,OTHER FISH,OTHER FISH
+H3,30411,030411 - --  Swordfish (Xiphias gladius),3041,SWORDFISH,SWORDFISH
+H3,30412,030412 - --  Toothfish (Dissostichus spp.),3041,TOOTHFISH,TOOTHFISH
+H3,30419,"030419 
+Name: Fish fillets&other fish meat (excl. of 0304.11-0304.12, whether/not minced), fresh/chilled
+Description: -- Other",3041,OTHER FISH,OTHER FISH
+H2,30420,"030420
+Name: Fish fillets, frozen
+Description: Fish fillets, frozen",304,UNKNOWN,UNKNOWN
+H3,30421,030421 - --  Swordfish (Xiphias gladius),3042,SWORDFISH,SWORDFISH
+H3,30422,030422 - --  Toothfish (Dissostichus spp.),3042,TOOTHFISH,TOOTHFISH
+H3,30429,"030429
+Name: Fish fillets&other fish meat (excl. of 0304.21-0304.92, whether/not minced), frozen fillets
+Description: -- Other",3042,OTHER FISH,OTHER FISH
+H4,30431,030431 - -- Tilapias (Oreochromis spp.),3043,TILAPIAS,TILAPIAS
+H4,30432,"030432 - -- Catfish (Pangasius spp., Silurus spp., Clarias spp., Ictalurus spp.)",3043,CATFISH,CATFISH
+H4,30433,030433 - -- Nile Perch (Lates niloticus),3043,NILE PERCH,NILE PERCH
+H4,30439,"030439 
+Name: Fish and crustaceans, molluscs and other aquatic invertebrates // Fish fillets and other fish meat (whether or not minced), fresh, chilled or frozen. // - Fresh or chilled fillets of tilapias (Oreochromis spp.), catfish (Pangasius spp., Silurus spp., Clarias spp., Ictalurus spp.), carp (Cyprinus carpio, Carassius carassius, Ctenopharyngodon idellus, Hypophthalmichthys spp., Cirrhinus spp., Mylopharyngodon piceus), eels (Anguilla spp.), Nile perch (Lates niloticus) and snakeheads (Channa spp.) : // -- Other
+Description: -- Other",3043,"TILAPIAS, CATFISH, CARP, EELS, NILE PERCH AND SNAKEHEADS",TILAPIAS
+H4,30441,"030441 - -- Pacific salmon (Oncorhynchus nerka, Oncorhynchus gorbuscha, Oncorhynchus keta, Oncorhynchus tschawytscha, Oncorhynchus kisutch, Oncorhynchus masou and Oncorhynchus rhodurus), Atlantic salmon (Salmo salar) and Danube salmon (Huchohucho)",3044,"PACIFIC SALMON, ATLANTIC SALMON  AND DANUBE SALMON",SALMON
+H4,30442,"030442 - -- Trout (Salmo trutta, Oncorhynchus mykiss, Oncorhynchus clarki, Oncorhynchus aguabonita, Oncorhynchus gilae, Oncorhynchus apache and Oncorhynchus chrysogaster)",3044,TROUT,TROUT
+H4,30443,"030443 - -- Flat fish (Pleuronectidae, Bothidae, Cynoglossidae, Soleidae, Scophthalmidae and Citharidae)",3044,FLAT FISH,FLAT FISH
+H4,30444,"030444 
+Name: Fish and crustaceans, molluscs and other aquatic invertebrates // Fish fillets and other fish meat (whether or not minced), fresh, chilled or frozen. // - Fresh or chilled fillets of other fish : // -- Fish of the families Bregmacerotidae, Euclichthyidae,
+Description: -- Fish of the families Bregmacerotidae, Euclichthyidae, Gadidae, Macrouridae, Melanonidae, Merlucciidae, Moridae and Muraenolepididae",3044,"CODS, CODLETS & COD-LIKE FISHES",COD
+H4,30445,030445 - -- Swordfish (Xiphias gladius),3044,SWORDFISH,SWORDFISH
+H4,30446,030446 - -- Toothfish (Dissostichus spp.),3044,TOOTHFISH,TOOTHFISH
+H4,30449,"030449
+Name: Fish and crustaceans, molluscs and other aquatic invertebrates // Fish fillets and other fish meat (whether or not minced), fresh, chilled or frozen. // - Fresh or chilled fillets of other fish : // -- Other
+Description: -- Other",3044,OTHER FISH,OTHER FISH
+H4,30451,"030451 - -- Tilapias (Oreochromis spp.), catfish (Pangasius spp., Silurus spp., Clarias spp., Ictalurus spp.), carp (Cyprinus carpio, Carassius carassius, Ctenopharyngodon idellus, Hypophthalmichthys spp., Cirrhinus spp., Mylopharyngodon piceus), eels (Anguilla spp.), Nile perch (Lates niloticus) and snakeheads (Channa spp.)",3045,"TILAPIAS, CATFISH, CARP, EELS, NILE PERCH AND SNAKEHEADS",TILAPIAS
+H4,30452,"030452 
+Name: Fish and crustaceans, molluscs and other aquatic invertebrates // Fish fillets and other fish meat (whether or not minced), fresh, chilled or frozen. // - Other, fresh or chilled : // -- Salmonidae
+Description: -- Salmonidae",3045,OTHER SALMONIDAE,OTHER FISH
+H4,30453,"030453 - -- Fish of the families Bregmacerotidae, Euclichthyidae, Gadidae, Macrouridae, Melanonidae, Merlucciidae, Moridae and Muraenolepididae",3045,"CODS, CODLETS & COD-LIKE FISHES",COD
+H4,30454,030454 - -- Swordfish (Xiphias gladius),3045,SWORDFISH,SWORDFISH
+H4,30455,030455 - -- Toothfish (Dissostichus spp.),3045,TOOTHFISH,TOOTHFISH
+H4,30459,"030459
+Name: Fish and crustaceans, molluscs and other aquatic invertebrates // Fish fillets and other fish meat (whether or not minced), fresh, chilled or frozen. // - Other, fresh or chilled : // -- Other
+Description: -- Other",3045,OTHER FISH,OTHER FISH
+H4,30461,030461 - -- Tilapias (Oreochromis spp.),3046,TILAPIAS,TILAPIAS
+H4,30462,"030462 - -- Catfish (Pangasius spp., Silurus spp., Clarias spp., Ictalurus spp.)",3046,CATFISH,CATFISH
+H4,30463,030463 - -- Nile Perch (Lates niloticus),3046,NILE PERCH,NILE PERCH
+H4,30469,"030469 
+Name: Fish and crustaceans, molluscs and other aquatic invertebrates // Fish fillets and other fish meat (whether or not minced), fresh, chilled or frozen. // - Frozen fillets of tilapias (Oreochromis spp.), catfish (Pangasius spp., Silurus spp., Clarias spp., Ictalurus spp.), carp (Cyprinus carpio, Carassius carassius, Ctenopharyngodon idellus, Hypophthalmichthys spp., Cirrhinus spp., Mylopharyngodon piceus), eels (Anguilla spp.), Nile perch (Lates niloticus) and snakeheads (Channa spp.) : // -- Other
+Description: -- Other",3046,"TILAPIAS, CATFISH, CARP, EELS, NILE PERCH AND SNAKEHEADS",TILAPIAS
+H4,30471,"030471 - -- Cod (Gadus morhua, Gadus ogac, Gadus macrocephalus)",3047,COD,COD
+H4,30472,030472 - -- Haddock (Melanogrammus aeglefinus),3047,HADDOCK,HADDOCK
+H4,30473,030473 - -- Coalfish (Pollachius virens),3047,COALFISH,COALFISH
+H4,30474,"030474 - -- Hake (Merluccius spp., Urophycis spp.)",3047,HAKE,HAKE
+H4,30475,030475 - -- Alaska Pollack (Theragra chalcogramma),3047,ALASKA POLLACK,ALASKA POLLACK
+H4,30479,"030479 
+ Name: Fish and crustaceans, molluscs and other aquatic invertebrates // Fish fillets and other fish meat (whether or not minced), fresh, chilled or frozen. // - Frozen fillets of fish of the families Bregmacerotidae, Euclichthyidae, Gadidae, Macrouridae, Melanonidae, Merlucciidae, Moridae and Muraenolepididae : // -- Other
+Description: -- Other",3047,"CODS, CODLETS & COD-LIKE FISHES",COD
+H4,30481,"030481 - -- Pacific salmon (Oncorhynchus nerka, Oncorhynchus gorbuscha, Oncorhynchus keta, Oncorhynchus tschawytscha, Oncorhynchus kisutch, Oncorhynchus masou and Oncorhynchus rhodurus), Atlantic salmon (Salmo salar) and Danube salmon (Huchohucho)",3048,"PACIFIC SALMON, ATLANTIC SALMON  AND DANUBE SALMON",SALMON
+H4,30482,"030482 - -- Trout (Salmo trutta, Oncorhynchus mykiss, Oncorhynchus clarki, Oncorhynchus aguabonita, Oncorhynchus gilae, Oncorhynchus apache and Oncorhynchus chrysogaster)",3048,TROUT,TROUT
+H4,30483,"030483 - -- Flat fish (Pleuronectidae, Bothidae, Cynoglossidae, Soleidae, Scophthalmidae and Citharidae)",3048,FLAT FISH,FLAT FISH
+H4,30484,030484 - -- Swordfish (Xiphias gladius),3048,SWORDFISH,SWORDFISH
+H4,30485,030485 - -- Toothfish (Dissostichus spp.),3048,TOOTHFISH,TOOTHFISH
+H4,30486,"030486 - -- Herrings (Clupea harengus, Clupea pallasii)",3048,HERRINGS,HERRINGS
+H4,30487,"030487 - -- Tunas (of the genus Thunnus), skipjack or stripe-bellied bonito (Euthynnus (Katsuwonus) pelamis)",3048,"TUNAS, SKIPJACK OR STRIPE-BELLIED BONITO EUTHYNNUS",TUNA
+H4,30489,"030489 
+ Name: Fish and crustaceans, molluscs and other aquatic invertebrates // Fish fillets and other fish meat (whether or not minced), fresh, chilled or frozen. // - Frozen fillets of other fish : // -- Other
+Description: -- Other",3048,OTHER FISH,OTHER FISH
+H2,30490,"030490
+Name: Fish meat other than fillets, frozen
+Description: Fish meat other than fillets, frozen",304,UNKNOWN,UNKNOWN
+H3,30491,030491 - --  Swordfish (Xiphias gladius),3049,SWORDFISH,SWORDFISH
+H4,30491,030491 - -- Swordfish (Xiphias gladius),3049,SWORDFISH,SWORDFISH
+H3,30492,030492 - --  Toothfish (Dissostichus spp.),3049,TOOTHFISH,TOOTHFISH
+H4,30492,030492 - -- Toothfish (Dissostichus spp.),3049,TOOTHFISH,TOOTHFISH
+H4,30493,"030493 - -- Tilapias (Oreochromis spp.), catfish (Pangasius spp., Silurus spp., Clarias spp., Ictalurus spp.), carp (Cyprinus carpio, Carassius carassius, Ctenopharyngodon idellus, Hypophthalmichthys spp., Cirrhinus spp., Mylopharyngodon piceus), eels (Anguilla spp.), Nile perch (Lates niloticus) and snakeheads (Channa spp.)",3049,"TILAPIAS, CATFISH, CARP, EELS, NILE PERCH AND SNAKEHEADS",TILAPIAS
+H4,30494,030494 - -- Alaska Pollack (Theragra chalcogramma),3049,ALASKA POLLACK,ALASKA POLLACK
+H4,30495,"030495 - -- Fish of the families Bregmacerotidae, Euclichthyidae, Gadidae, Macrouridae, Melanonidae, Merlucciidae, Moridae and Muraenolepididae, other than Alaska Pollack (Theragra chalcogramma)",3049,"CODS, CODLETS & COD-LIKE FISHES",COD
+H3,30499,"030499
+Name: Fish fillets&other fish meat (excl. of 0304.11-0304.29, whether/not minced),n.e.s.
+Description: -- Other",3049,OTHER FISH,OTHER FISH
+H4,30499,"030499
+Name: Fish and crustaceans, molluscs and other aquatic invertebrates // Fish fillets and other fish meat (whether or not minced), fresh, chilled or frozen. // - Other, frozen : // -- Other
+Description: -- Other",3049,OTHER FISH,OTHER FISH
+H2,30510,"030510 
+Name: Flours, meals & pellets of fish, fit for human consumption
+Description: Flours, meals & pellets of fish, fit for human consumption",305,UNKNOWN,UNKNOWN
+H3,30510,"030510 - -  Flours, meals and pellets of fish, fit for human consumption",305,UNKNOWN,UNKNOWN
+H4,30510,"030510 
+ Name: Fish and crustaceans, molluscs and other aquatic invertebrates // Fish, dried, salted or in brine; smoked fish, whether or not cooked before or during the smoking process; flours, meals and pellets of fish, fit for human consumption. // -Flours, meals and pellets of fish, fit for human consumption
+Description: -Flours, meals and pellets of fish, fit for human consumption",305,UNKNOWN,UNKNOWN
+H2,30520,"030520 - - Livers and roes Of fish, Dried, smoked, salted or in brine",305,UNKNOWN,UNKNOWN
+H3,30520,"030520 
+ Name: Livers & roes of fish, dried/smoked/salted/in brine
+Description: - Livers and roes of fish, dried, smoked, salted or in brine",305,UNKNOWN,UNKNOWN
+H4,30520,"030520 
+Name: Fish and crustaceans, molluscs and other aquatic invertebrates // Fish, dried, salted or in brine; smoked fish, whether or not cooked before or during the smoking process; flours, meals and pellets of fish, fit for human consumption. // -Livers and roes of fish, dried, smoked, salted or in brine
+Description: -Livers and roes of fish, dried, smoked, salted or in brine",305,UNKNOWN,UNKNOWN
+H2,30530,"030530 - - fish fillets, Dried, salted or in brine, but not smoked",305,UNKNOWN,UNKNOWN
+H3,30530,"030530 - -  Fish fillets, dried, salted or in brine, but not smoked",305,UNKNOWN,UNKNOWN
+H4,30531,"030531 - -- Tilapias (Oreochromis spp.), catfish (Pangasius spp., Silurus spp., Clarias spp., Ictalurus spp.), carp (Cyprinus carpio, Carassius carassius, Ctenopharyngodon idellus, Hypophthalmichthys spp., Cirrhinus spp., Mylopharyngodon piceus), eels (Anguilla spp.), Nile perch (Lates niloticus) and snakeheads (Channa spp.)",3053,"TILAPIAS, CATFISH, CARP, EELS, NILE PERCH AND SNAKEHEADS",TILAPIAS
+H4,30532,"030532 - -- Fish of the families Bregmacerotidae, Euclichthyidae, Gadidae, Macrouridae, Melanonidae, Merlucciidae, Moridae and Muraenolepididae",3053,"CODS, CODLETS & COD-LIKE FISHES",COD
+H4,30539,"030539 
+Name: Fish and crustaceans, molluscs and other aquatic invertebrates // Fish, dried, salted or in brine; smoked fish, whether or not cooked before or during the smoking process; flours, meals and pellets of fish, fit for human consumption. // - Fish fillets, dried, salted or in brine, but not smoked : // -- Other
+Description: -- Other",3053,OTHER FISH,OTHER FISH
+H2,30541,"030541 - -- Pacific salmon (Oncorhynchus nerka, Oncorhynchus gorbuscha, Oncorhynchus keta, Oncorhynchus tschawytscha, Oncorhynchus kisutch, Oncorhynchus masou and Oncorhynchus rhodurus), Atlantic salmon (Salmo salar) and Danube salmon (Hucho Hucho)",3054,"PACIFIC SALMON, ATLANTIC SALMON  AND DANUBE SALMON",SALMON
+H3,30541,"030541 - --  Pacific salmon (Oncorhynchus nerka, Oncorhynchus gorbuscha, Oncorhynchus keta, Oncorhynchus tschawytscha, Oncorhynchus kisutch, Oncorhynchus masou and Oncorhynchus rhodurus), Atlantic salmon (Salmo salar) and Danube salmon (Hucho hucho)",3054,"PACIFIC SALMON, ATLANTIC SALMON  AND DANUBE SALMON",SALMON
+H4,30541,"030541 - -- Pacific salmon (Oncorhynchus nerka, Oncorhynchus gorbuscha, Oncorhynchus keta, Oncorhynchus tschawytscha, Oncorhynchus kisutch, Oncorhynchus masou and Oncorhynchus rhodurus), Atlantic salmon (Salmo salar) and Danube salmon (Hucho hucho)",3054,"PACIFIC SALMON, ATLANTIC SALMON  AND DANUBE SALMON",SALMON
+H2,30542,"030542 - -- Herrings (Clupea harengus, Clupea pallasii)",3054,HERRINGS,HERRINGS
+H3,30542,"030542 - --  Herrings (Clupea harengus, Clupea pallasii)",3054,HERRINGS,HERRINGS
+H4,30542,"030542 - -- Herrings (Clupea harengus, Clupea pallasii)",3054,HERRINGS,HERRINGS
+H4,30543,"030543 - -- Trout (Salmo trutta, Oncorhynchus mykiss, Oncorhynchus clarki, Oncorhynchus aguabonita, Oncorhynchus gilae, Oncorhynchus apache and Oncorhynchus chrysogaster)",3054,TROUT,TROUT
+H4,30544,"030544 - -- Tilapias (Oreochromis spp.), catfish (Pangasius spp., Silurus spp., Clarias spp., Ictalurus spp.), carp (Cyprinus carpio, Carassius carassius, Ctenopharyngodon idellus, Hypophthalmichthys spp., Cirrhinus spp., Mylopharyngodon piceus), eels (Anguilla spp.), Nile perch (Lates niloticus) and snakeheads (Channa spp.)",3054,"TILAPIAS, CATFISH, CARP, EELS, NILE PERCH AND SNAKEHEADS",TILAPIAS
+H2,30549,"030549 
+ Name: Smoked fish (excl. of 0305.41 & 0305.42), incl. fillets
+Description: Smoked fish (excl. of 0305.41 & 0305.42), incl. fillets",3054,OTHER FISH,OTHER FISH
+H3,30549,"030549
+Name: Smoked fish (excl. of 0305.41 & 0305.42), incl. fillets
+Description: -- Other",3054,OTHER FISH,OTHER FISH
+H4,30549,"030549
+Name: Fish and crustaceans, molluscs and other aquatic invertebrates // Fish, dried, salted or in brine; smoked fish, whether or not cooked before or during the smoking process; flours, meals and pellets of fish, fit for human consumption. // - Smoked fish, including fillets, other than edible fish offal : // -- Other
+Description: -- Other",3054,OTHER FISH,OTHER FISH
+H2,30551,"030551 - -- Cod (Gadus morhua, Gadus ogac, Gadus macrocephalus)",3055,COD,COD
+H3,30551,"030551 - --  Cod (Gadus morhua, Gadus ogac, Gadus macrocephalus)",3055,COD,COD
+H4,30551,"030551 - -- Cod (Gadus morhua, Gadus ogac, Gadus macrocephalus)",3055,COD,COD
+H2,30559,030559 - -- Other,3055,OTHER FISH,OTHER FISH
+H3,30559,030559 - --  Other,3055,OTHER FISH,OTHER FISH
+H4,30559,"030559 
+Name: Fish and crustaceans, molluscs and other aquatic invertebrates // Fish, dried, salted or in brine; smoked fish, whether or not cooked before or during the smoking process; flours, meals and pellets of fish, fit for human consumption. // - Dried fish, other than edible fish offal, whether or not salted but not smoked : // -- Other
+Description: -- Other",3055,OTHER FISH,OTHER FISH
+H2,30561,"030561 - -- Herrings (Clupea harengus, Clupea pallasii)",3056,HERRINGS,HERRINGS
+H3,30561,"030561 - --  Herrings (Clupea harengus, Clupea pallasii)",3056,HERRINGS,HERRINGS
+H4,30561,"030561 - -- Herrings (Clupea harengus, Clupea pallasii)",3056,HERRINGS,HERRINGS
+H2,30562,"030562 - -- Cod (Gadus morhua, Gadus ogac, Gadus macrocephalus)",3056,COD,COD
+H3,30562,"030562 - --  Cod (Gadus morhua, Gadus ogac, Gadus macrocephalus)",3056,COD,COD
+H4,30562,"030562 - -- Cod (Gadus morhua, Gadus ogac, Gadus macrocephalus)",3056,COD,COD
+H2,30563,030563 - -- Anchovies (Engraulis spp.),3056,ANCHOVIES,ANCHOVIES
+H3,30563,030563 - --  Anchovies (Engraulis spp.),3056,ANCHOVIES,ANCHOVIES
+H4,30563,030563 - -- Anchovies (Engraulis spp.),3056,ANCHOVIES,ANCHOVIES
+H4,30564,"030564 - -- Tilapias (Oreochromis spp.), catfish (Pangasius spp., Silurus spp., Clarias spp., Ictalurus spp.), carp (Cyprinus carpio, Carassius carassius, Ctenopharyngodon idellus, Hypophthalmichthys spp., Cirrhinus spp., Mylopharyngodon piceus), eels (Anguilla spp.), Nile perch (Lates niloticus) and snakeheads (Channa spp.)",3056,"TILAPIAS, CATFISH, CARP, EELS, NILE PERCH AND SNAKEHEADS",TILAPIAS
+H2,30569,030569 - -- Other,3056,OTHER FISH,OTHER FISH
+H3,30569,030569 - --  Other,3056,OTHER FISH,OTHER FISH
+H4,30569,"030569
+Name: Fish and crustaceans, molluscs and other aquatic invertebrates // Fish, dried, salted or in brine; smoked fish, whether or not cooked before or during the smoking process; flours, meals and pellets of fish, fit for human consumption. // - Fish, salted but
+Description: -- Other",3056,OTHER FISH,OTHER FISH
+H4,30571,030571 - -- Shark fins,3057,SHARKS,SHARKS
+H4,30572,"030572
+Name: Fish and crustaceans, molluscs and other aquatic invertebrates // Fish, dried, salted or in brine; smoked fish, whether or not cooked before or during the smoking process; flours, meals and pellets of fish, fit for human consumption. // - Fish fins, heads, tails, maws and other edible fish offal : // -- Fish heads, tails and maws
+Description: -- Fish heads, tails and maws",3057,UNKNOWN,UNKNOWN
+H4,30579,"030579 
+Name: Fish and crustaceans, molluscs and other aquatic invertebrates // Fish, dried, salted or in brine; smoked fish, whether or not cooked before or during the smoking process; flours, meals and pellets of fish, fit for human consumption. // - Fish fins, heads, tails, maws and other edible fish offal : // -- Other
+Description: -- Other",3057,OTHER FISH,OTHER FISH
+H2,30611,"Name: Rock lobster & oth. sea crawfish (Palinurus spp., Panulirus spp., Jasus spp ...
+Description: Rock lobster & oth. sea crawfish (Palinurus spp., Panulirus spp., Jasus spp.), whether or not in shell, frozen",3061,ROCK LOBSTER AND OTHER SEA CRAWFISH,LOBSTER
+H3,30611,"Name: Rock lobster & other sea crawfish (Palinurus spp., Panulirus spp., Jasus spp.), whether/not in shell, frozen
+Description: -- Rock lobster and other sea crawfish (Palinurus spp., Panulirus spp., Jasus spp.)",3061,ROCK LOBSTER AND OTHER SEA CRAWFISH,LOBSTER
+H4,30611,"Name: Fish and crustaceans, molluscs and other aquatic invertebrates // Crustaceans, whether in shell or not, live, fresh, chilled, frozen, dried, salted or in brine; smoked crustaceans, whether in shell or not, whether or not cooked before or during the smoking process; crustaceans, in shell, cooked by steaming or by boiling in water, whether or not chilled, frozen, dried, salted or in brine; flours, meals and pellets of crustaceans, fit for human consumption. // - Frozen : // -- Rock lobster and other sea crawfish (Palinurus spp., Panulirus spp., Jasus spp.)
+Description: -- Rock lobster and other sea crawfish (Palinurus spp., Panulirus spp., Jasus spp.)",3061,ROCK LOBSTER AND OTHER SEA CRAWFISH,LOBSTER
+H2,30612,030612 - -- Lobsters (Homarus spp.),3061,LOBSTERS,LOBSTER
+H3,30612,030612 - --  Lobsters (Homarus spp.),3061,LOBSTERS,LOBSTER
+H4,30612,030612 - -- Lobsters (Homarus spp.),3061,LOBSTERS,LOBSTER
+H2,30613,030613 - -- Shrimps and prawns,3061,SHRIMPS AND PRAWNS,SHRIMPS AND PRAWNS
+H3,30613,030613 - --  Shrimps and prawns,3061,SHRIMPS AND PRAWNS,SHRIMPS AND PRAWNS
+H2,30614,030614 - -- Crabs,3061,CRABS,CRABS
+H3,30614,030614 - --  Crabs,3061,CRABS,CRABS
+H4,30614,030614 - -- Crabs,3061,CRABS,CRABS
+H4,30615,030615 - -- Norway lobsters (Nephrops norvegicus),3061,NORWAY LOBSTERS,LOBSTER
+H4,30616,"030616 - -- Cold-water shrimps and prawns (Pandalus spp., Crangon crangon)",3061,COLD-WATER SHRIMPS AND PRAWNS,SHRIMPS AND PRAWNS
+H4,30617,030617 - -- Other shrimps and prawns,3061,OTHER SHRIMPS AND PRAWNS,SHRIMPS AND PRAWNS
+H2,30619,"030619 - -- Other, including flours, meals and pellets Of crustaceans, fit for human consumption",3061,OTHER FISH,OTHER FISH
+H3,30619,"030619 - --  Other, including flours, meals and pellets of crustaceans, fit for human consumption",3061,OTHER FISH,OTHER FISH
+H4,30619,"030619 - -- Other, including flours, meals and pellets of crustaceans, fit for human consumption",3061,OTHER FISH,OTHER FISH
+H2,30621,"Name: Rock lobster & oth. sea crawfish (Palinurus spp., Panulirus spp., Jasus spp ...
+Description: Rock lobster & oth. sea crawfish (Palinurus spp., Panulirus spp., Jasus spp.), whether or not in shell, other than frozen",3062,ROCK LOBSTER AND OTHER SEA CRAWFISH,LOBSTER
+H3,30621,"Name: Rock lobster & other sea crawfish (Palinurus spp., Panulirus spp., Jasus spp.), whether/not in shell, other than frozen
+Description: -- Rock lobster and other sea crawfish (Palinurus spp., Panulirus spp., Jasus spp.)",3062,ROCK LOBSTER AND OTHER SEA CRAWFISH,LOBSTER
+H4,30621,"Name: Fish and crustaceans, molluscs and other aquatic invertebrates // Crustaceans, whether in shell or not, live, fresh, chilled, frozen, dried, salted or in brine; smoked crustaceans, whether in shell or not, whether or not cooked before or during the smoking process; crustaceans, in shell, cooked by steaming or by boiling in water, whether or not chilled, frozen, dried, salted or in brine; flours, meals and pellets of crustaceans, fit for human consumption. // - Not frozen : // -- Rock lobster and other sea crawfish (Palinurus spp., Panulirus spp., Jasus spp.)
+Description: -- Rock lobster and other sea crawfish (Palinurus spp., Panulirus spp., Jasus spp.)",3062,ROCK LOBSTER AND OTHER SEA CRAWFISH,LOBSTER
+H2,30622,030622 - -- Lobsters (Homarus spp.),3062,LOBSTERS,LOBSTER
+H3,30622,030622 - --  Lobsters (Homarus spp.),3062,LOBSTERS,LOBSTER
+H4,30622,030622 - -- Lobsters (Homarus spp.),3062,LOBSTERS,LOBSTER
+H2,30623,030623 - -- Shrimps and prawns,3062,SHRIMPS AND PRAWNS,SHRIMPS AND PRAWNS
+H3,30623,030623 - --  Shrimps and prawns,3062,SHRIMPS AND PRAWNS,SHRIMPS AND PRAWNS
+H2,30624,030624 - -- Crabs,3062,CRABS,CRABS
+H3,30624,030624 - --  Crabs,3062,CRABS,CRABS
+H4,30624,030624 - -- Crabs,3062,CRABS,CRABS
+H4,30625,030625 - -- Norway lobsters (Nephrops norvegicus),3062,NORWAY LOBSTERS,LOBSTER
+H4,30626,"030626 - -- Cold-water shrimps and prawns (Pandalus spp., Crangon crangon)",3062,COLD-WATER SHRIMPS AND PRAWNS,SHRIMPS AND PRAWNS
+H4,30627,030627 - -- Other shrimps and prawns,3062,OTHER SHRIMPS AND PRAWNS,SHRIMPS AND PRAWNS
+H2,30629,"030629 - -- Other, including flours, meals and pellets Of crustaceans, fit for human consumption",3062,OTHER FISH,OTHER FISH
+H3,30629,"030629 - --  Other, including flours, meals and pellets of crustaceans, fit for human consumption",3062,OTHER FISH,OTHER FISH
+H4,30629,"030629 
+Name: Fish and crustaceans, molluscs and other aquatic invertebrates // Crustaceans, whether in shell or not, live, fresh, chilled, frozen, dried, salted or in brine; smoked crustaceans, whether in shell or not, whether or not cooked before or during the smoking process; crustaceans, in shell, cooked by steaming or by boiling in water, whether or not chilled, frozen, dried, salted or in brine; flours, meals and pellets of crustaceans, fit for human consumption. // - Not frozen : // -- Other, including flours, meals and pellets of crustaceans, fit for human consumption
+Description: -- Other, including flours, meals and pellets of crustaceans, fit for human consumption",3062,OTHER FISH,OTHER FISH
+H2,30710,030710 - - Oysters,307,OYSTERS,OYSTERS
+H3,30710,030710 - -  Oysters,307,OYSTERS,OYSTERS
+H4,30711,"030711
+ Name: Fish and crustaceans, molluscs and other aquatic invertebrates // Molluscs, whether in shell or not, live, fresh, chilled, frozen, dried, salted or in brine; smoked molluscs, whether in shell or not, whether or not cooked before or during the smoking process; flours, meals and pellets of molluscs, fit for human consumption. // - Oysters : // -- Live, fresh or chilled
+Description: -- Live, fresh or chilled",3071,OYSTERS,OYSTERS
+H4,30719,"030719 
+Name: Fish and crustaceans, molluscs and other aquatic invertebrates // Molluscs, whether in shell or not, live, fresh, chilled, frozen, dried, salted or in brine; smoked molluscs, whether in shell or not, whether or not cooked before or during the smoking process; flours, meals and pellets of molluscs, fit for human consumption. // - Oysters : // -- Other
+Description: -- Other",3071,OYSTERS OTHERS,OYSTERS
+H2,30721,"Name: Scallops, incl. queen scallops (genera Pecten/Chlamys/Placopecten), live/fr ...
+Description: Scallops, incl. queen scallops (genera Pecten/Chlamys/Placopecten), live/fresh/chilled",3072,SCALLOPS INCLUDING QUEEN SCALLOPS,SCALLOPS
+H3,30721,"Name: Scallops, incl. queen scallops (genera Pecten/Chlamys/Placopecten), live/fresh/chilled
+Description: -- Live, fresh or chilled",3072,SCALLOPS INCLUDING QUEEN SCALLOPS,SCALLOPS
+H4,30721,"030721
+Name: Fish and crustaceans, molluscs and other aquatic invertebrates // Molluscs, whether in shell or not, live, fresh, chilled, frozen, dried, salted or in brine; smoked molluscs, whether in shell or not, whether or not cooked before or during the smoking proc
+Description: -- Live, fresh or chilled",3072,MOLLUSCS,MOLLUSCS
+H2,30729,"Name: Scallops, incl. queen scallops (genera Pecten/Chlamys/Placopecten), other t ...
+Description: Scallops, incl. queen scallops (genera Pecten/Chlamys/Placopecten), other than live/fresh/chilled",3072,SCALLOPS INCLUDING QUEEN SCALLOPS,SCALLOPS
+H3,30729,"Name: Scallops, incl. queen scallops (genera Pecten/Chlamys/Placopecten), other than live/fresh/chilled
+Description: -- Other",3072,SCALLOPS INCLUDING QUEEN SCALLOPS,SCALLOPS
+H4,30729,"Name: Fish and crustaceans, molluscs and other aquatic invertebrates // Molluscs, whether in shell or not, live, fresh, chilled, frozen, dried, salted or in brine; smoked molluscs, whether in shell or not, whether or not cooked before or during the smoking process; flours, meals and pellets of molluscs, fit for human consumption. // - Scallops, including queen scallops, of the genera Pecten, Chlamys or Placopecten : // -- Other
+Description: -- Other",3072,SCALLOPS INCLUDING QUEEN SCALLOPS,SCALLOPS
+H2,30731,"030731
+Name: Fish and crustaceans, molluscs and other aquatic invertebrates // Molluscs, whether in shell or not, live, fresh, chilled, frozen, dried, salted or in brine; smoked molluscs, whether in shell or not, whether or not cooked before or during the smoking process; flours, meals and pellets of molluscs, fit for human consumption. // - Mussels (Mytilus spp., Perna spp.) : // -- Live, fresh or chilled
+Description: -- Live, fresh or chilled",3073,MUSSELS,MUSSELS
+H3,30731,"030731 - --  Live, fresh or chilled",3073,MUSSELS,MUSSELS
+H4,30731,"030731 - -- Live, fresh or chilled",3073,MUSSELS,MUSSELS
+H2,30739,030739 - -- Other,3073,MUSSELS,MUSSELS
+H3,30739,030739 - --  Other,3073,MUSSELS,MUSSELS
+H4,30739,030739 - -- Other,3073,MUSSELS,MUSSELS
+H2,30741,"030741
+Name: Cuttle fish (Sepia officinalis, Rossia macrosoma, Sepiola spp.) & squid (Om ...
+Description: Cuttle fish (Sepia officinalis, Rossia macrosoma, Sepiola spp.) & squid (Ommastrephes spp., Loligo spp., Nototodarus spp., Sepioteuthis spp.), live/fresh/chilled",3074,CUTTLE FISH AND SQUID,CUTTLE FISH AND SQUID
+H3,30741,"030741 - --  Live, fresh or chilled",3074,CUTTLE FISH AND SQUID,CUTTLE FISH AND SQUID
+H4,30741,"030741 - -- Live, fresh or chilled",3074,CUTTLE FISH AND SQUID,CUTTLE FISH AND SQUID
+H2,30749,030749 - -- Other,3074,CUTTLE FISH AND SQUID,CUTTLE FISH AND SQUID
+H3,30749,030749 - --  Other,3074,CUTTLE FISH AND SQUID,CUTTLE FISH AND SQUID
+H4,30749,030749 - -- Other,3074,CUTTLE FISH AND SQUID,CUTTLE FISH AND SQUID
+H2,30751,"030751
+Name: Octopus (Octopus spp.), live/fresh/chilled
+Description: Octopus (Octopus spp.), live/fresh/chilled",3075,OCTOPUS,OCTOPUS
+H3,30751,"030751 - --  Live, fresh or chilled",3075,OCTOPUS,OCTOPUS
+H4,30751,"030751 - -- Live, fresh or chilled",3075,OCTOPUS,OCTOPUS
+H2,30759,030759 - -- Other,3075,OCTOPUS,OCTOPUS
+H3,30759,030759 - --  Other,3075,OCTOPUS,OCTOPUS
+H4,30759,030759 - -- Other,3075,OCTOPUS,OCTOPUS
+H2,30760,"030760 - - Snails, Other than Sea Snails",307,SNAILS (NOT SEA SNAILS),SNAILS (NOT SEA SNAILS)
+H3,30760,"030760 - -  Snails, other than sea snails",307,SNAILS (NOT SEA SNAILS),SNAILS (NOT SEA SNAILS)
+H4,30760,"030760 - -Snails, other than sea snails",307,SNAILS (NOT SEA SNAILS),SNAILS (NOT SEA SNAILS)
+H4,30771,"030771
+Name: Fish and crustaceans, molluscs and other aquatic invertebrates // Molluscs, whether in shell or not, live, fresh, chilled, frozen, dried, salted or in brine; smoked molluscs, whether in shell or not, whether or not cooked before or during the smoking process; flours, meals and pellets of molluscs, fit for human consumption. // - Clams, cockles and ark shells (families Arcidae, Arcticidae, Cardiidae, Donacidae, Hiatellidae, Mactridae, Mesodesmatidae, Myidae, Semelidae, Solecurtidae, Solenidae, Tridacnidae and Veneridae) : // -- Live, fresh or chilled
+Description: -- Live, fresh or chilled",3077,"CLAMS, COCKLES AND ARKSHELLS","CLAMS, COCKLES AND ARKSHELLS"
+H4,30779,"030779 
+Name: Fish and crustaceans, molluscs and other aquatic invertebrates // Molluscs, whether in shell or not, live, fresh, chilled, frozen, dried, salted or in brine; smoked molluscs, whether in shell or not, whether or not cooked before or during the smoking process; flours, meals and pellets of molluscs, fit for human consumption. // - Clams, cockles and ark shells (families Arcidae, Arcticidae, Cardiidae, Donacidae, Hiatellidae, Mactridae, Mesodesmatidae, Myidae, Semelidae, Solecurtidae, Solenidae, Tridacnidae and Veneridae) : // -- Other
+Description: -- Other",3077,"CLAMS, COCKLES AND ARKSHELLS","CLAMS, COCKLES AND ARKSHELLS"
+H4,30781,"030781 
+Name: Fish and crustaceans, molluscs and other aquatic invertebrates // Molluscs, whether in shell or not, live, fresh, chilled, frozen, dried, salted or in brine; smoked molluscs, whether in shell or not, whether or not cooked before or during the smoking process; flours, meals and pellets of molluscs, fit for human consumption. // - Abalone (Haliotis spp.) : // -- Live, fresh or chilled
+Description: -- Live, fresh or chille",3078,ABALONE,ABALONE
+H4,30789,"030789
+Name: Fish and crustaceans, molluscs and other aquatic invertebrates // Molluscs, whether in shell or not, live, fresh, chilled, frozen, dried, salted or in brine; smoked molluscs, whether in shell or not, whether or not cooked before or during the smoking process; flours, meals and pellets of molluscs, fit for human consumption. // - Abalone (Haliotis spp.) : // -- Other
+Description: -- Other",3078,ABALONE,ABALONE
+H2,30791,"030791
+Name: Molluscs & invertebrates (excl. of 0307.10-0307.60), live/fresh/chilled
+Description: Molluscs & invertebrates (excl. of 0307.10-0307.60), live/fresh/chilled",3079,MOLLUSCS AND OTHER INVERTEBRATES,MOLLUSCS
+H3,30791,"030791
+Name: Molluscs & invertebrates (excl. of 0307.10-0307.60), live/fresh/chilled
+Description: -- Live, fresh or chilled",3079,MOLLUSCS AND OTHER INVERTEBRATES,MOLLUSCS
+H4,30791,"030791
+Name: Fish and crustaceans, molluscs and other aquatic invertebrates // Molluscs, whether in shell or not, live, fresh, chilled, frozen, dried, salted or in brine; smoked molluscs, whether in shell or not, whether or not cooked before or during the smoking process; flours, meals and pellets of molluscs, fit for human consumption. // - Other, including flours, meals and pellets, fit for human consumption : // -- Live, fresh or chilled
+Description: -- Live, fresh or chilled",3079,MOLLUSCS AND OTHER INVERTEBRATES,MOLLUSCS
+H2,30799,"030799 
+Name: Molluscs & invertebrates (excl. of 0307.10-0307.60), frozen/dried/salted/in ...
+Description: Molluscs & invertebrates (excl. of 0307.10-0307.60), frozen/dried/salted/in brine; incl. flours/meals/pellets of aquatic invertebrates other than crustaceans, fit for human consumption",3079,MOLLUSCS AND OTHER INVERTEBRATES,MOLLUSCS
+H3,30799,030799 - --  Other,3079,MOLLUSCS AND OTHER INVERTEBRATES,MOLLUSCS
+H4,30799,030799 - -- Other,3079,MOLLUSCS AND OTHER INVERTEBRATES,MOLLUSCS
+H4,30811,"030811
+ Name: Fish and crustaceans, molluscs and other aquatic invertebrates // Aquatic invertebrates other than crustaceans and molluscs, live, fresh, chilled, frozen, dried, salted or in brine; smoked aquatic invertebrates other than crustaceans and molluscs, whether or not cooked before or during the smoking process; flours, meals and pellets of aquatic invertebrates other than crustaceans and molluscs, fit for human consumption. // - Sea cucumbers (Stichopus japonicus, Holothurioidea) : // -- Live, fresh or chilled
+Description: -- Live, fresh or chilled",3081,SEA CUCUMBERS,SEA CUCUMBERS
+H4,30819,"030819
+ Name: Fish and crustaceans, molluscs and other aquatic invertebrates // Aquatic invertebrates other than crustaceans and molluscs, live, fresh, chilled, frozen, dried, salted or in brine; smoked aquatic invertebrates other than crustaceans and molluscs, whether or not cooked before or during the smoking process; flours, meals and pellets of aquatic invertebrates other than crustaceans and molluscs, fit for human consumption. // - Sea cucumbers (Stichopus japonicus, Holothurioidea) : // -- Other
+Description: -- Other",3081,SEA CUCUMBERS,SEA CUCUMBERS
+H4,30821,"030821 
+Name: Fish and crustaceans, molluscs and other aquatic invertebrates // Aquatic invertebrates other than crustaceans and molluscs, live, fresh, chilled, frozen, dried, salted or in brine; smoked aquatic invertebrates other than crustaceans and molluscs, whether or not cooked before or during the smoking process; flours, meals and pellets of aquatic invertebrates other than crustaceans and molluscs, fit for human consumption. // - Sea urchins (Strongylocentrotus spp., Paracentrotus lividus, Loxechinus albus, Echichinus esculentus) : // -- Live, fresh or chilled
+Description: -- Live, fresh or chilled",3082,SEA URCHINS,SEA URCHINS
+H4,30829,"030829 
+Name: Fish and crustaceans, molluscs and other aquatic invertebrates // Aquatic invertebrates other than crustaceans and molluscs, live, fresh, chilled, frozen, dried, salted or in brine; smoked aquatic invertebrates other than crustaceans and molluscs, whether or not cooked before or during the smoking process; flours, meals and pellets of aquatic invertebrates other than crustaceans and molluscs, fit for human consumption. // - Sea urchins (Strongylocentrotus spp., Paracentrotus lividus, Loxechinus albus, Echichinus esculentus) : // -- Other",3082,SEA URCHINS,SEA URCHINS
+H4,30830,030830 - -Jellyfish (Rhopilema spp.),308,JELLYFISH,JELLYFISH
+H4,30890,"030890
+Name: Fish and crustaceans, molluscs and other aquatic invertebrates // Aquatic invertebrates other than crustaceans and molluscs, live, fresh, chilled, frozen, dried, salted or in brine; smoked aquatic invertebrates other than crustaceans and molluscs, whether or not cooked before or during the smoking process; flours, meals and pellets of aquatic invertebrates other than crustaceans and molluscs, fit for human consumption. // -Other
+Description: -Other",308,OTHER FISH,OTHER FISH
+H2,160411,160411 - -- salmon,16041,SALMON,SALMON
+H3,160411,160411 - --  Salmon,16041,SALMON,SALMON
+H4,160411,160411 - -- Salmon,16041,SALMON,SALMON
+H2,160412,160412 - -- Herrings,16041,HERRINGS,HERRINGS
+H3,160412,160412 - --  Herrings,16041,HERRINGS,HERRINGS
+H4,160412,160412 - -- Herrings,16041,HERRINGS,HERRINGS
+H2,160413,"160413 - -- Sardines, sardinella and brisling or sprats",16041,"SARDINES , SARDINELLA , BRISLING OR SPRATS",SARDINES
+H3,160413,"160413 - --  Sardines, sardinella and brisling or sprats",16041,"SARDINES , SARDINELLA , BRISLING OR SPRATS",SARDINES
+H4,160413,"160413 - -- Sardines, sardinella and brisling or sprats",16041,"SARDINES , SARDINELLA , BRISLING OR SPRATS",SARDINES
+H2,160414,"160414 - -- Tunas, skipjack and bonito (Sarda spp.)",16041,"TUNAS, SKIPJACK AND BONITO",TUNA
+H3,160414,"160414 - --  Tunas, skipjack and bonito (Sarda spp.)",16041,"TUNAS, SKIPJACK AND BONITO",TUNA
+H4,160414,"160414 - -- Tunas, skipjack and bonito (Sarda spp.)",16041,"TUNAS, SKIPJACK AND BONITO",TUNA
+H2,160415,160415 - -- Mackerel,16041,MACKEREL,MACKEREL
+H3,160415,160415 - --  Mackerel,16041,MACKEREL,MACKEREL
+H4,160415,160415 - -- Mackerel,16041,MACKEREL,MACKEREL
+H2,160416,160416 - -- Anchovies,16041,ANCHOVIES,ANCHOVIES
+H3,160416,160416 - --  Anchovies,16041,ANCHOVIES,ANCHOVIES
+H4,160416,160416 - -- Anchovies,16041,ANCHOVIES,ANCHOVIES
+H4,160417,160417 - -- Eels,16041,EELS,EELS
+H2,160419,"160419
+ Name: Fish (excl. of 1604.11-1604.16), prepared/preserved, whole/in pieces (excl. minced)
+Description: -- Other",16041,OTHER FISH,OTHER FISH
+H3,160419,"160419
+ame: Fish (excl. of 1604.11-1604.16), prepared/preserved, whole/in pieces (excl. minced)
+Description: -- Other",16041,OTHER FISH,OTHER FISH
+H4,160419,"160419 
+Name: Preparations of meat, of fish or of crustaceans, molluscs or other aquatic invertebrates // Prepared or preserved fish; caviar and caviar substitutes prepared from fish eggs. // - Fish, whole or in pieces, but not minced : // -- Other
+Description: -- Other",16041,OTHER FISH,OTHER FISH
+H2,160420,"160420 
+Name: Prepared/presvd. fish other than whole/in pieces
+Description: Prepared/presvd. fish other than whole/in pieces",1604,OTHER FISH,OTHER FISH
+H3,160420,"160420
+Name: Prepared/preserved fish other than whole/in pieces
+Description: - Other prepared or preserved fish",1604,OTHER FISH,OTHER FISH
+H4,160420,"160420 
+Name: Preparations of meat, of fish or of crustaceans, molluscs or other aquatic invertebrates // Prepared or preserved fish; caviar and caviar substitutes prepared from fish eggs. // -Other prepared or preserved fish
+Description: -Other prepared or preserved fish",1604,OTHER FISH,OTHER FISH
+H2,160430,160430 - - Caviar and Caviar substitutes,1604,CAVIAR AND CAVIAR SUBSTITUTES,CAVIAR
+H3,160430,160430 - -  Caviar and caviar substitutes,1604,CAVIAR AND CAVIAR SUBSTITUTES,CAVIAR
+H4,160431,160431 - -- Caviar,16043,CAVIAR,CAVIAR
+H4,160432,160432 - -- Caviar substitutes,16043,CAVIAR SUBSTITUTES,CAVIAR
+H2,160510,160510 - - Crab,1605,CRABS,CRABS
+H3,160510,160510 - -  Crab,1605,CRABS,CRABS
+H4,160510,160510 - -Crab,1605,CRABS,CRABS
+H2,160520,160520 - - Shrimps and prawns,1605,SHRIMPS AND PRAWNS,SHRIMPS AND PRAWNS
+H3,160520,160520 - -  Shrimps and prawns,1605,SHRIMPS AND PRAWNS,SHRIMPS AND PRAWNS
+H4,160521,"160521 
+Name: Preparations of meat, of fish or of crustaceans, molluscs or other aquatic invertebrates // Crustaceans, molluscs and other aquatic invertebrates, prepared or preserved. // - Shrimps and prawns : // -- Not in airtight container
+Description: -- Not in airtight container",16052,SHRIMPS AND PRAWNS,SHRIMPS AND PRAWNS
+H4,160529,"160529
+Name: Preparations of meat, of fish or of crustaceans, molluscs or other aquatic invertebrates // Crustaceans, molluscs and other aquatic invertebrates, prepared or preserved. // - Shrimps and prawns : // -- Other
+Description: -- Other",16052,SHRIMPS AND PRAWNS,SHRIMPS AND PRAWNS
+H2,160530,160530 - - lobster,1605,LOBSTERS,LOBSTERS
+H3,160530,160530 - -  Lobster,1605,LOBSTERS,LOBSTERS
+H4,160530,160530 - -Lobster,1605,LOBSTERS,LOBSTERS
+H2,160540,160540 - - Other crustaceans,1605,OTHER CRUSTACEANS,OTHER CRUSTACEANS
+H3,160540,160540 - -  Other crustaceans,1605,OTHER CRUSTACEANS,OTHER CRUSTACEANS
+H4,160540,160540 - -Other crustaceans,1605,OTHER CRUSTACEANS,OTHER CRUSTACEANS
+H4,160551,160551 - -- Oysters,16055,OYSTERS,OYSTERS
+H4,160552,"Name: Preparations of meat, of fish or of crustaceans, molluscs or other aquatic invertebrates // Crustaceans, molluscs and other aquatic invertebrates, prepared or preserved. // - Molluscs : // -- Scallops, including queen scallops
+Description: -- Scallops, including queen scallops",16055,SCALLOPS INCLUDING QUEEN SCALLOPS,SCALLOPS
+H4,160553,160553 - -- Mussels,16055,MUSSELS,MUSSELS
+H4,160554,160554 - -- Cuttle fish and squid,16055,CUTTLE FISH AND SQUID,CUTTLE FISH AND SQUID
+H4,160555,160555 - -- Octopus,16055,OCTOPUS,OCTOPUS
+H4,160556,"160556 - -- Clams, cockles and arkshells",16055,"CLAMS, COCKLES AND ARKSHELLS",CLAMS (NOT AND)
+H4,160557,160557 - -- Abalone,16055,ABALONE,ABALONE
+H4,160558,"160558 - -- Snails, other than sea snails",16055,SNAILS (NOT SEA SNAILS),SNAILS (NOT SEA SNAILS)
+H4,160559,"160559 
+Name: Preparations of meat, of fish or of crustaceans, molluscs or other aquatic invertebrates // Crustaceans, molluscs and other aquatic invertebrates, prepared or preserved. // - Molluscs : // -- Other
+Description: -- Other",16055,MOLLUSCS AND OTHER INVERTEBRATES,MOLLUSCS
+H4,160561,160561 - -- Sea cucumbers,16056,SEA CUCUMBERS,SEA CUCUMBERS
+H4,160562,160562 - -- Sea urchins,16056,SEA URCHINS,SEA URCHINS
+H4,160563,160563 - -- Jellyfish,16056,JELLYFISH,JELLYFISH
+H4,160569,"160569
+Name: Preparations of meat, of fish or of crustaceans, molluscs or other aquatic invertebrates // Crustaceans, molluscs and other aquatic invertebrates, prepared or preserved. // - Other aquatic invertebrates : // -- Other
+Description: -- Other",16056,MOLLUSCS AND OTHER INVERTEBRATES,MOLLUSCS
+H2,160590,"160590
+ Name: Molluscs & oth. aquatic invertegrates, prepd./presvd.
+Description: Molluscs & oth. aquatic invertegrates, prepd./presvd.",1605,MOLLUSCS AND OTHER INVERTEBRATES,MOLLUSCS
+H3,160590,"160590
+Name: Molluscs & other aquatic invertegrates, prepared/preserved
+Description: - Other",1605,MOLLUSCS AND OTHER INVERTEBRATES,MOLLUSCS
