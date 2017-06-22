@@ -1,13 +1,12 @@
 
-country_trade_var <- function(year=2015, 
+country_trade_var <- function(alerts, year=2015, 
                                   subregion = "Northern Europe",
                               ind = "KG"){
       
       library(plyr)
-      setwd("C:/R Stuff/LPC")
-      alerts <- read.csv("LPC WWF Alerts.csv", header = TRUE)
       
-      countrymapping <- read.csv("UN Comtrade Country List.csv", header = TRUE)
+      
+      countrymapping <- read.csv("data/UN Comtrade Country List.csv", header = TRUE)
       
       ## Convert the Export and Import quantities into numerical values 
       alerts$ExportedValue <- as.numeric(alerts$ExportedValue)

@@ -14,12 +14,8 @@ library(data.table)
 require(RCurl)
 library(foreign)
 
-url <- 'https://github.com/tengbateng/WWF_Drilldown_Mockup/raw/master/alertyears.txt'
 
-dat <- getURL(url)                
-
-alerts <- read.csv(textConnection(dat), header=TRUE)
-#alerts <- read.csv(temp, header = TRUE)
+alerts <- read.csv("data/alertyears.txt", header = TRUE)
 
 # Define UI for application that draws a histogram
 ui <- fluidPage(
@@ -106,9 +102,18 @@ ui <- fluidPage(
 # Define server logic required to draw a histogram
 server <- function(input, output) {
       
-      countrymapping <- read.csv("UN Comtrade Country List.csv", header = TRUE)
-      #alerts <- read.csv("alertyears.txt", header = TRUE)
+      library(sqldf)
       
+      zipfile <- "data/LPC WWF Alerts.zip"
+      alertdat <- read.table(unz(zipfile, "LPC WWF Alerts.csv"), sep = ",", header = TRUE)
+      rm(zipfile)
+      
+      countrymapping <- read.csv("data/UN Comtrade Country List.csv", header = TRUE)
+      
+      source("scripts/regional_trade_var.R")
+      source("scripts/subregional_trade_var.R")
+      source("scripts/country_trade_var.R")
+      source("scripts/fg_trade_var.R")
       
       output$FirstControls <- renderUI ({
             temp <- as.character(alerts$Year)
@@ -120,8 +125,6 @@ server <- function(input, output) {
                               selected = NULL)
             )
       })
-      
-      
       
       
       output$SomeControls <- renderUI ({
@@ -177,8 +180,8 @@ server <- function(input, output) {
       output$Table <- renderTable({
             
             if(!is.null(input$n_year)){
-                  source("regional_trade_var.R")
-                  dat <- regional_trade_var(input$n_year, "KG")
+                  
+                  dat <- regional_trade_var(alertdat, input$n_year, "KG")
                   return(dat)  
             }
             else{
@@ -198,8 +201,7 @@ server <- function(input, output) {
                (!is.null(input$n_region) && input$n_region != "Select Region"  )){
                   print(input$n_region)
                   
-                  source("subregional_trade_var.R")
-                  dat <- subregional_trade_var(input$n_year, input$n_region, "KG")
+                  dat <- subregional_trade_var(alertdat, input$n_year, input$n_region, "KG")
                   
                   return(dat)   
             }
@@ -215,8 +217,7 @@ server <- function(input, output) {
                   
                   print(input$n_subregion)
                   
-                  source("country_trade_var.R")
-                  dat <- country_trade_var(input$n_year, input$n_subregion, "KG")
+                  dat <- country_trade_var(alertdat, input$n_year, input$n_subregion, "KG")
                   
                   return(dat) 
             }
@@ -231,8 +232,7 @@ server <- function(input, output) {
                (!is.null(input$n_subregion) && input$n_subregion != "Select Subregion") &&
                (!is.null(input$n_country) && input$n_country != "Select Country")){
                   
-                  source("fg_trade_var.R")
-                  dat <- fg_trade_var(input$n_year, input$n_country, "KG")
+                  dat <- fg_trade_var(alertdat, input$n_year, input$n_country, "KG")
                   
                   return(dat)
             }

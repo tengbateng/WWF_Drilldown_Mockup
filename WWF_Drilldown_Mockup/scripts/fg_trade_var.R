@@ -1,13 +1,11 @@
 
-fg_trade_var <- function(year=2015, 
+fg_trade_var <- function(alerts, year=2015, 
                               country = "Algeria",
                               ind = "KG"){
       
       library(plyr)
-      setwd("C:/R Stuff/LPC")
-      alerts <- read.csv("LPC WWF Alerts.csv", header = TRUE)
       
-      countrymapping <- read.csv("UN Comtrade Country List.csv", header = TRUE)
+      countrymapping <- read.csv("data/UN Comtrade Country List.csv", header = TRUE)
       
       ## Convert the Export and Import quantities into numerical values 
       alerts$ExportedValue <- as.numeric(alerts$ExportedValue)
@@ -53,7 +51,7 @@ fg_trade_var <- function(year=2015,
       yearalerts$ImporterCountry <- country
       
       ##Map fish categories to the commodity codes
-      fishmapping <- read.csv("family commodity map.csv", header = TRUE)
+      fishmapping <- read.csv("data/family commodity map.csv", header = TRUE)
       
       fishmapping$Family.Or.Group <- as.character(fishmapping$Family.Or.Group)
       

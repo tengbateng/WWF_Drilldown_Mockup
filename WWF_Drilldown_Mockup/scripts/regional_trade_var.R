@@ -1,11 +1,10 @@
 
-regional_trade_var <- function(year=2015, ind = "KG"){
+regional_trade_var <- function(alerts, year=2015, ind = "KG"){
       library(plyr)
+      library(sqldf)
       
-      setwd("C:/R Stuff/LPC")
-      alerts <- read.csv("LPC WWF Alerts.csv", header = TRUE)
       
-      ## Convert the Export and Import quantities into numerical values
+            ## Convert the Export and Import quantities into numerical values
       alerts$ExportedValue <- as.numeric(alerts$ExportedValue)
       alerts$ExportedVolume <- as.numeric(alerts$ExportedVolume)
       alerts$ImportedValue <- as.numeric(alerts$ImportedValue)
@@ -26,7 +25,7 @@ regional_trade_var <- function(year=2015, ind = "KG"){
       #yearalerts <- yearalerts[yearalerts$TradeDiscrepancyKG > 0, ]
       
       ##Read country mapping file
-      countrymapping <- read.csv("UN Comtrade Country List.csv", header = TRUE)
+      countrymapping <- read.csv("data/UN Comtrade Country List.csv", header = TRUE)
       
       countrymapping$UN.Geoscheme.level.1 <- as.character(countrymapping$UN.Geoscheme.level.1)
       
